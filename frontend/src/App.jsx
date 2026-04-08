@@ -26,10 +26,6 @@ function App() {
               <AvatarFallback>L</AvatarFallback>
             </Avatar>
             <div>
-              <div className="flex items-center gap-2">
-                <h1 className="text-lg font-heading">LMS</h1>
-                <Badge>Beta</Badge>
-              </div>
               <div className="text-xs text-muted-foreground">Learn. Build. Grow.</div>
             </div>
           </div>
